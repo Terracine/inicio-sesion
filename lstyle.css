@@ -12,6 +12,7 @@ body {
   background-image: url("1288612.jpg");
   background-position: no-repeat;
   background-size: cover;
+  background-position: center;
   color: #fff;
 }
 .container-form {

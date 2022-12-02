@@ -163,10 +163,4 @@ form input[type="password"].error {
 .error_notify.active{
   display: block;
 }
-@media (max-width: 500px){
-    header{
-        flex-direction: column;
-    }
-    nav{
-        padding:0px 0px 0px 15px ;
-    }
+
